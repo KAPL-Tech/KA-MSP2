@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114391928222",
+    "project_id": "ka-digimesswala-prod",
+    "storage_bucket": "ka-digimesswala-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114391928222:android:60d8d4a43eca08d9e39a8f",
+        "android_client_info": {
+          "package_name": "com.khanaanywhere.khananew_mess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwCmig1DbN6H97W96dndw9joyG4u1hR7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
